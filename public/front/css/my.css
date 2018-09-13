@@ -1,0 +1,11 @@
+.property-box.active {
+	background: #d5344a;
+	color: #fff;
+}
+.modal, .modal-open .modal {
+    background: rgba(197, 194, 194, 0.74);
+}
+
+/*.modal-dialog{
+    width: 600px;
+}
